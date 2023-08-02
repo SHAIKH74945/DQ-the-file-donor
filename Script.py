@@ -199,8 +199,9 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Bot_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+▫️ ᴄʜᴀɴɴᴇʟ : @shaikhmoviesupdate
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @shaikhcomplaintbox
+▫️ OWNER : @Shaikh6486
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
